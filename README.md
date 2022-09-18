@@ -10,4 +10,4 @@
 </div>
 
 
-![snake svg](https://github.com/mr.dzakydev/mrdzakydev/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/wavescats/wavescats/blob/output/github-contribution-grid-snake.svg)
